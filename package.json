@@ -1,0 +1,23 @@
+{
+  "name": "newportfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n00sek/newPortfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "n00sek"
+  ],
+  "author": "n00sek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n00sek/newPortfolio/issues"
+  },
+  "homepage": "https://github.com/n00sek/newPortfolio#readme"
+}
